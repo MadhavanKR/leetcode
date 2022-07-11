@@ -1,6 +1,6 @@
 from datetime import datetime
 
-class FrontRunner:
+class RunFronter:
 
     def __init__(self, brokerTrade, electronicTrade):
         self.brokerTradeId = brokerTrade.tradeId
