@@ -1,0 +1,7 @@
+initialize window - i=0, j=0
+while i <= j and j < len(arr):
+    while windowIsDesirable(...):
+        record / update the result
+        increment i / contract the window
+    // if we are here window is not desirable
+    increment j or expand the window
